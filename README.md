@@ -1,6 +1,6 @@
 # Transcriptional bursts explain autosomal random monoallelic expression and affect allelic imbalance
 
-Repository for transcriptional burst analysis from allelic single-cell RNA-seq described in the article **Transcriptional bursts explain autosomal random monoallelic expression and affect allelic imbalance** by Anton J.M. Larsson, Christoph Ziegenhain, Michael Hagemann-Jensen, Björn Reinius, Tina Jacob, Tim Dalessandri, Gert-Jan Hendriks, Maria Kasper and Rickard Sandberg. PLOS Computational Biology. doi: DOI HERE.
+Repository for transcriptional burst and allelic expression analysis based allelic single-cell RNA-seq data described in the article **Transcriptional bursts explain autosomal random monoallelic expression and affect allelic imbalance** by Anton J.M. Larsson, Christoph Ziegenhain, Michael Hagemann-Jensen, Björn Reinius, Tina Jacob, Tim Dalessandri, Gert-Jan Hendriks, Maria Kasper and Rickard Sandberg. PLOS Computational Biology. doi: DOI HERE.
 
 ## Folders
 /data contains all the data used to produce the figures
