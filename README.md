@@ -7,3 +7,6 @@ Repository for transcriptional burst and allelic expression analysis based on al
 /figures contain the produced figures
 /inference contain the transcriptional burst inference code. Find more at code [txburst](https://github.com/sandberg-lab/txburst).
 The root folder contain notebooks to reproduce the figures and analysis, and a STAN model used for figure 5.
+
+## Software DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4651126.svg)](https://doi.org/10.5281/zenodo.4651126)
